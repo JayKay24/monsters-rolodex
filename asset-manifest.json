@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JayKay24/monsters-rolodex/static/css/main.d9ae10ba.chunk.css",
+    "main.js": "/JayKay24/monsters-rolodex/static/js/main.e7d632fd.chunk.js",
+    "main.js.map": "/JayKay24/monsters-rolodex/static/js/main.e7d632fd.chunk.js.map",
+    "runtime-main.js": "/JayKay24/monsters-rolodex/static/js/runtime-main.90d0dfe9.js",
+    "runtime-main.js.map": "/JayKay24/monsters-rolodex/static/js/runtime-main.90d0dfe9.js.map",
+    "static/js/2.9d0c4314.chunk.js": "/JayKay24/monsters-rolodex/static/js/2.9d0c4314.chunk.js",
+    "static/js/2.9d0c4314.chunk.js.map": "/JayKay24/monsters-rolodex/static/js/2.9d0c4314.chunk.js.map",
+    "index.html": "/JayKay24/monsters-rolodex/index.html",
+    "precache-manifest.1e85c5bf3e55cf7411b9f7b3db221bfe.js": "/JayKay24/monsters-rolodex/precache-manifest.1e85c5bf3e55cf7411b9f7b3db221bfe.js",
+    "service-worker.js": "/JayKay24/monsters-rolodex/service-worker.js",
+    "static/css/main.d9ae10ba.chunk.css.map": "/JayKay24/monsters-rolodex/static/css/main.d9ae10ba.chunk.css.map",
+    "static/js/2.9d0c4314.chunk.js.LICENSE.txt": "/JayKay24/monsters-rolodex/static/js/2.9d0c4314.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90d0dfe9.js",
+    "static/js/2.9d0c4314.chunk.js",
+    "static/css/main.d9ae10ba.chunk.css",
+    "static/js/main.e7d632fd.chunk.js"
+  ]
+}
